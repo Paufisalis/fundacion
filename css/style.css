@@ -1,0 +1,90 @@
+
+footer{
+  margin-top: 80px;
+}
+.titulo{
+padding-top: 50px;
+}
+
+.carousel img{
+height:500px;
+}
+
+.carousel h2{
+  margin-bottom: 15vh;<--!view height-->
+  font-size: 3em;
+}
+
+.carousel p{
+  font-size: 1em;
+}
+
+.card img{
+  max-height: 348px;
+height: 250px;
+
+}
+
+.card p{
+  color:black;
+  max-height: 5vh;
+  margin-bottom: 8vh;
+}
+
+.container{
+  margin-top: 80px;
+}
+
+h1{
+  color:grey;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+
+.margen{
+  margin-top: 10px;
+}
+
+.form-group {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.btn_contacto{
+  margin-right: 50px;
+  margin-top: 50px;
+}
+
+
+.jumbotron {
+  background-image:url("../img/f4.jpg");
+  background-size: cover;
+  min-height: 60vh;
+}
+
+#fotos{
+  margin-top: 50px;
+  text-align:center;
+  margin-bottom: 50px;
+}
+
+#foto{
+  text-align: center;
+}
+
+.btn{
+  margin-left: 50px;
+  margin-right: 50px;
+width: 200px;
+}
+
+.btn_1{
+  margin-right: 50px;
+width: 200px;
+}
+
+.caja_about{
+height: 303px;
+}
